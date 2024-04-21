@@ -1,4 +1,4 @@
-package Zadanie7;
+package zadanie7;
 
 
 public class Figura {

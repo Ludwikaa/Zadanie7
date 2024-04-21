@@ -1,8 +1,8 @@
 package zadanie7;
 
-import Zadanie7.Figura;
-import Zadanie7.Punkt;
-import Zadanie7.Linia;
+import zadanie7.Figura;
+import zadanie7.Punkt;
+import zadanie7.Linia;
 
 public class Czworokat extends Figura{
     
